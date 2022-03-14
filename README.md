@@ -1,2 +1,5 @@
-# Praveen
-About Me
+- 👋 Hi, I’m @Praveen-0603
+- 👀 I’m interested in making myself more knowledgeable
+- 🌱 I’m currently learning Flutter and DSA
+- 💞️ I’m looking to collaborate on projects with Flutter
+- 📫 How to reach me Mail id - praveengongada0603@gmail.com
