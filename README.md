@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praveen-0603
+- 👋 Hi, I’m Praveen
 - 👀 I’m interested in making myself more knowledgeable
 - 🌱 I’m currently learning Flutter and DSA
 - 💞️ I’m looking to collaborate on projects with Flutter
